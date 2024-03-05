@@ -9,3 +9,8 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+
+/* New class for the new element */
+.new-header-element {
+    background-color: #ff545f;
+}
